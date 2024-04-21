@@ -1,0 +1,1 @@
+clear; ..\project1\Project1.exe; echo "input:"; cat input.txt; echo ""; echo "output:"; cat output.txt; echo ""
